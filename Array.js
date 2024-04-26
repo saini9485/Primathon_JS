@@ -48,13 +48,20 @@
 // console.log(res) 
 // 11. slice()
 // 12. find()
-// 13. join()
+// let arr =[2,3,5,1,9,8,10,11]
+// let res = arr.find((num)=> num>5)
+// console.log(res) // 9 
+// 13. join() // 
 // 14. splice()
 // 15. some()
 // 16. reverse()
-// 17. indexOf()
+// 17. indexOf() 
+let arr =[2,3,5,1,9,8,10,9,11,9]
+let res = arr.indexOf(9)
+console.log(res) // 4
+
 // 18. sort() 
-let arr =[2,3,5,1,9,8,10,11]
+// let arr =[2,3,5,1,9,8,10,11]
 // let res = arr.sort()
 // console.log(res)
 
@@ -68,15 +75,15 @@ let arr =[2,3,5,1,9,8,10,11]
 // })
 // console.log(arr)
 
-arr.sort((a,b) => b-a)
-console.log(arr)
+// arr.sort((a,b) => b-a)
+// console.log(arr)
 
-// 19. toString()
+// 19. toString() 
 // 20. every()
+// 21 includes()
 // let arr = [1,2,3,4,5,6,7]
 // let res = arr.includes(9)
 // console.log(res)
-// 21 includes()
 
 
 
