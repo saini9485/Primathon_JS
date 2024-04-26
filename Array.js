@@ -43,6 +43,9 @@
 
 // 9. concat()
 // 10. flat()
+// let arr =[[[[2,3,5]]]]
+// let res = arr.flat(1)
+// console.log(res) 
 // 11. slice()
 // 12. find()
 // 13. join()
@@ -50,12 +53,29 @@
 // 15. some()
 // 16. reverse()
 // 17. indexOf()
-// 18. sort()
+// 18. sort() 
+let arr =[2,3,5,1,9,8,10,11]
+// let res = arr.sort()
+// console.log(res)
+
+// arr.sort(function(a,b){
+// return a-b
+// })
+// console.log(arr)
+
+// arr.sort((a,b)=>{
+//     return a-b
+// })
+// console.log(arr)
+
+arr.sort((a,b) => b-a)
+console.log(arr)
+
 // 19. toString()
 // 20. every()
-let arr = [1,2,3,4,5,6,7]
-let res = arr.includes(9)
-console.log(res)
+// let arr = [1,2,3,4,5,6,7]
+// let res = arr.includes(9)
+// console.log(res)
 // 21 includes()
 
 
