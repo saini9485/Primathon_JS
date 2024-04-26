@@ -30,15 +30,17 @@
 //  console.log(res)  // [ 6 ]
 
 // 7. reduce() // 
-let arr = [1,2,3,4,5]
-let sum = arr.reduce((acc,  curr ) => {
-   return  acc + curr
+// let arr = [1,2,3,4,5]
+// let sum = arr.reduce((acc,  curr ) => {
+//    return  acc + curr
  
-},8)
-console.log(sum)
-
+// },8)
+// console.log(sum) // 23
 
 // 8. forEach()
+// let arr = [1,2,3,4,5] 
+// arr.forEach((num)=> console.log(num*2)) /// 2,4,6,8,10
+
 // 9. concat()
 // 10. flat()
 // 11. slice()
@@ -51,6 +53,10 @@ console.log(sum)
 // 18. sort()
 // 19. toString()
 // 20. every()
+let arr = [1,2,3,4,5,6,7]
+let res = arr.includes(9)
+console.log(res)
 // 21 includes()
+
 
 
