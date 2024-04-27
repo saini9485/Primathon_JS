@@ -56,9 +56,9 @@
 // 15. some()
 // 16. reverse()
 // 17. indexOf() 
-let arr =[2,3,5,1,9,8,10,9,11,9]
-let res = arr.indexOf(9)
-console.log(res) // 4
+// let arr =[2,3,5,1,9,8,10,9,11,9]
+// let res = arr.indexOf(9)
+// console.log(res) // 4
 
 // 18. sort() 
 // let arr =[2,3,5,1,9,8,10,11]
@@ -79,6 +79,9 @@ console.log(res) // 4
 // console.log(arr)
 
 // 19. toString() 
+let arr = [1,2,3,4,5,6,7]
+let res = arr.toString()
+console.log(res)
 // 20. every()
 // 21 includes()
 // let arr = [1,2,3,4,5,6,7]

@@ -1,0 +1,2 @@
+// String Method
+1. 
