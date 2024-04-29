@@ -54,6 +54,27 @@
 // questions 
 
 
-for (let i=0; i<10; i++){
-console.log(i)
+// for (let i=0; i<10; i++){
+// console.log(i)
+// }
+
+
+// let num = 1 ;
+// while(num<10){
+//     console.log(num)
+//     num++
+// }
+
+// let num  = 1 ;
+// do{
+//     console.log(num)
+//     num++
+// } while(num<10)
+
+// sum of element 
+let arr = [1,2,3,4]
+sum = 0;
+for(let i=0; i<arr.length; i++){
+    sum +=  arr[i];
 }
+console.log(`sum of the arr ${sum}`)
