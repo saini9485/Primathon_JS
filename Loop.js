@@ -77,4 +77,4 @@ sum = 0;
 for(let i=0; i<arr.length; i++){
     sum +=  arr[i];
 }
-console.log(`sum of the arr ${sum}`)
+console.log(`sum of the arr  ${sum}`)
