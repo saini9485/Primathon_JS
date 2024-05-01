@@ -58,6 +58,7 @@
 // console.log(i)
 // }
 
+// While loop *** 
 
 // let num = 1 ;
 // while(num<10){
@@ -65,11 +66,15 @@
 //     num++
 // }
 
+// do while loop ***
+
 // let num  = 1 ;
 // do{
 //     console.log(num)
 //     num++
 // } while(num<10)
+
+//Normal Loop*** 
 
 // sum of element 
 let arr = [1,2,3,4]

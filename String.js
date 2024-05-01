@@ -18,7 +18,7 @@
 // 8. repeat() > 
 let str = "  Primathon Academy" 
 let res = str.repeat(3)  
-console.log(res)
+console.log(res) 
 // 9. replace() >
 // let str = "  Primathon Academy" 
 // let res = str.replace( "i", "R")  
