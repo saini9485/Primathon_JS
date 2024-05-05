@@ -17,7 +17,7 @@
 // 7. indexOf() >
 // 8. repeat() > 
 let str = "  Primathon Academy" 
-let res = str.repeat(3)  
+let res = str.repeat(5)  
 console.log(res) 
 // 9. replace() >
 // let str = "  Primathon Academy" 
